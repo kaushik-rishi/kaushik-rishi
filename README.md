@@ -21,7 +21,6 @@ Hello, I’m Kaushik Rishi, A budding developer and Algorithms enthusiast. I am 
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
