@@ -72,15 +72,15 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
+1. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 2. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
 3. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
-4. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+4. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
 5. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 6. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-7. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+7. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 8. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-9. 🗣 Commented on [#616](https://github.com/asyncapi/cli/issues/616) in [asyncapi/cli](https://github.com/asyncapi/cli)
+9. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 10. 🗣 Commented on [#616](https://github.com/asyncapi/cli/issues/616) in [asyncapi/cli](https://github.com/asyncapi/cli)
 <!--END_SECTION:activity-->
 
