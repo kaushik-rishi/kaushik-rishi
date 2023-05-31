@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://twitter.com/KaushikRishi007">
+<a href="https://twitter.com/KaushikRishi07">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <a href="https://www.linkedin.com/in/kaushikrishi/">
