@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm Kaushik Rishi</h1>
+<h2 align="center">
+  Hola!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
+  I'm Kaushik Rishi
+</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D52F7&center=true&width=435&lines=Full+Stack+Web+Developer+!!;And+a+college+student;Loves+to+build+....;To+get+my+hands+on+new+things+everyday..." alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
+<a href="https://twitter.com/KaushikRishi007">
+  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+</a>
+<a href="https://www.linkedin.com/in/kaushikrishi/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+</p>
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -24,6 +42,10 @@ Hello, I’m Kaushik Rishi, A budding developer and an algorithms enthusiast. I 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
+## Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/kaushik-rishi">
@@ -32,12 +54,3 @@ Hello, I’m Kaushik Rishi, A budding developer and an algorithms enthusiast. I 
 <a href="https://github.com/kaushik-rishi/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaushik-rishi&layout=Demo&theme=blue-green" />
 </a>
-
-## 📫 **Link Tree:**
-<p align="center">
-<a href="https://www.linkedin.com/in/kaushik-rishi-3ab4b5189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushik-rishi" height="40" width="40" /></a>
-<a href="mailto:rishi.cp01@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kaushik-rishi" height="40" width="40" /></a>
-
-
-
-
