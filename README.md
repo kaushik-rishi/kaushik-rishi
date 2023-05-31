@@ -24,7 +24,9 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Kaushik Rishi, A budding developer and an algorithms enthusiast. I am working on Node JS and C++ and planning to Dive deep into languages like C and Java. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁. I am waiting for a position in my life when i have Ample free time to learn C language. I do not have an eye for design [I've aldredy said that 😄 - I use xfce4].
+Hello, I’m Kaushik Rishi, A budding developer and an algorithms enthusiast. I am working on Node JS and C++ and planning to Dive deep into languages like C and Java. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁. 
+
+<!-- I am waiting for a position in my life when i have Ample free time to learn C language. I do not have an eye for design [I've aldredy said that 😄 - I use xfce4]. -->
 
 ## 🛠️ **Languages & Tools:**
 
