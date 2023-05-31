@@ -24,9 +24,35 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Kaushik Rishi, A budding developer and an algorithms enthusiast. I am working on Node JS and C++ and planning to Dive deep into languages like C and Java. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁. 
+A budding developer and an algorithms enthusiast. I am working on Node JS and C++ and planning to Dive deep into languages like C and Java. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁. 
 
 <!-- I am waiting for a position in my life when i have Ample free time to learn C language. I do not have an eye for design [I've aldredy said that 😄 - I use xfce4]. -->
+
+<br>
+
+```yaml
+name: Kaushik Rishi
+located_in: India
+education: Senior @ IIIT Sricity 🎓
+past experiences: 
+  - ["Software Developer Intern", "Motorq ⚙️"]
+  - ["Software Engineer Intern", "Salesforce ☁️"]
+  - ["Software Developer Intern", "Neverinstall 💾"]
+  - ["Software Developer Intern", "Loyalytics 👤"]
+  - ["Blogs and Podcasts Team Lead", "IOTA 🧑‍💻"]
+
+technologies: ["NodeJS", "Typescript", "Javascript", "Python", "Java", "C++"]
+currentlyExploring: {
+    concepts: [
+        "Blockchain",
+        "Machine learning"
+    ],
+    areas: [
+        "Design Patterns",
+        "Devops"
+    ]
+}
+```
 
 ## 🛠️ **Languages & Tools:**
 
