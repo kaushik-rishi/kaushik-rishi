@@ -72,14 +72,14 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
-2. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-3. 🗣 Commented on [#444](https://github.com/asyncapi/glee/issues/444) in [asyncapi/glee](https://github.com/asyncapi/glee)
-4. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-5. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
+1. 🗣 Commented on [#466](https://github.com/asyncapi/cli/issues/466) in [asyncapi/cli](https://github.com/asyncapi/cli)
+2. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
+3. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+4. 🗣 Commented on [#444](https://github.com/asyncapi/glee/issues/444) in [asyncapi/glee](https://github.com/asyncapi/glee)
+5. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 6. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
 7. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
-8. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+8. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
 9. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 10. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 <!--END_SECTION:activity-->
