@@ -72,16 +72,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+1. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 2. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-3. 💪 Opened PR [#1367](https://github.com/asyncapi/modelina/pull/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-4. 🗣 Commented on [#466](https://github.com/asyncapi/cli/issues/466) in [asyncapi/cli](https://github.com/asyncapi/cli)
-5. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
-6. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-7. 🗣 Commented on [#444](https://github.com/asyncapi/glee/issues/444) in [asyncapi/glee](https://github.com/asyncapi/glee)
+3. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+4. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+5. 💪 Opened PR [#1367](https://github.com/asyncapi/modelina/pull/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+6. 🗣 Commented on [#466](https://github.com/asyncapi/cli/issues/466) in [asyncapi/cli](https://github.com/asyncapi/cli)
+7. 🗣 Commented on [#559](https://github.com/asyncapi/cli/issues/559) in [asyncapi/cli](https://github.com/asyncapi/cli)
 8. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-9. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
-10. 🗣 Commented on [#618](https://github.com/asyncapi/cli/issues/618) in [asyncapi/cli](https://github.com/asyncapi/cli)
+9. 🗣 Commented on [#444](https://github.com/asyncapi/glee/issues/444) in [asyncapi/glee](https://github.com/asyncapi/glee)
+10. 🗣 Commented on [#780](https://github.com/asyncapi/modelina/issues/780) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
