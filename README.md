@@ -72,16 +72,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-2. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-3. 💪 Opened PR [#1380](https://github.com/asyncapi/modelina/pull/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-4. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-5. 🗣 Commented on [#634](https://github.com/asyncapi/studio/issues/634) in [asyncapi/studio](https://github.com/asyncapi/studio)
-6. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-7. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+1. 🗣 Commented on [#593](https://github.com/asyncapi/cli/issues/593) in [asyncapi/cli](https://github.com/asyncapi/cli)
+2. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+3. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+4. 💪 Opened PR [#1380](https://github.com/asyncapi/modelina/pull/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+5. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+6. 🗣 Commented on [#634](https://github.com/asyncapi/studio/issues/634) in [asyncapi/studio](https://github.com/asyncapi/studio)
+7. 🗣 Commented on [#1352](https://github.com/asyncapi/modelina/issues/1352) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 8. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 9. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-10. 💪 Opened PR [#1367](https://github.com/asyncapi/modelina/pull/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+10. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
