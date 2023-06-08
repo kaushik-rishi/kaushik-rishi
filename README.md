@@ -72,16 +72,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#590](https://github.com/asyncapi/cli/issues/590) in [asyncapi/cli](https://github.com/asyncapi/cli)
-2. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-3. 🗣 Commented on [#648](https://github.com/asyncapi/studio/issues/648) in [asyncapi/studio](https://github.com/asyncapi/studio)
-4. 💪 Opened PR [#650](https://github.com/asyncapi/studio/pull/650) in [asyncapi/studio](https://github.com/asyncapi/studio)
-5. 🗣 Commented on [#648](https://github.com/asyncapi/studio/issues/648) in [asyncapi/studio](https://github.com/asyncapi/studio)
+1. 🗣 Commented on [#444](https://github.com/asyncapi/glee/issues/444) in [asyncapi/glee](https://github.com/asyncapi/glee)
+2. 🗣 Commented on [#590](https://github.com/asyncapi/cli/issues/590) in [asyncapi/cli](https://github.com/asyncapi/cli)
+3. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+4. 🗣 Commented on [#648](https://github.com/asyncapi/studio/issues/648) in [asyncapi/studio](https://github.com/asyncapi/studio)
+5. 💪 Opened PR [#650](https://github.com/asyncapi/studio/pull/650) in [asyncapi/studio](https://github.com/asyncapi/studio)
 6. 🗣 Commented on [#648](https://github.com/asyncapi/studio/issues/648) in [asyncapi/studio](https://github.com/asyncapi/studio)
-7. 🗣 Commented on [#116](https://github.com/akash-network/console/issues/116) in [akash-network/console](https://github.com/akash-network/console)
-8. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-9. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-10. 🗣 Commented on [#593](https://github.com/asyncapi/cli/issues/593) in [asyncapi/cli](https://github.com/asyncapi/cli)
+7. 🗣 Commented on [#648](https://github.com/asyncapi/studio/issues/648) in [asyncapi/studio](https://github.com/asyncapi/studio)
+8. 🗣 Commented on [#116](https://github.com/akash-network/console/issues/116) in [akash-network/console](https://github.com/akash-network/console)
+9. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+10. 🗣 Commented on [#1380](https://github.com/asyncapi/modelina/issues/1380) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
