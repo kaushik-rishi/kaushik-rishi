@@ -74,14 +74,14 @@ currentlyExploring: {
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
 2. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
-3. 💪 Opened PR [#462](https://github.com/asyncapi/glee/pull/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
-4. 🗣 Commented on [#258](https://github.com/asyncapi/glee/issues/258) in [asyncapi/glee](https://github.com/asyncapi/glee)
-5. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-6. 🗣 Commented on [#348](https://github.com/asyncapi/glee/issues/348) in [asyncapi/glee](https://github.com/asyncapi/glee)
-7. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-8. 💪 Opened PR [#1393](https://github.com/asyncapi/modelina/pull/1393) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-9. 🗣 Commented on [#650](https://github.com/asyncapi/studio/issues/650) in [asyncapi/studio](https://github.com/asyncapi/studio)
-10. 💪 Opened PR [#244](https://github.com/asyncapi/.github/pull/244) in [asyncapi/.github](https://github.com/asyncapi/.github)
+3. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+4. 💪 Opened PR [#462](https://github.com/asyncapi/glee/pull/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+5. 🗣 Commented on [#258](https://github.com/asyncapi/glee/issues/258) in [asyncapi/glee](https://github.com/asyncapi/glee)
+6. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+7. 🗣 Commented on [#348](https://github.com/asyncapi/glee/issues/348) in [asyncapi/glee](https://github.com/asyncapi/glee)
+8. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+9. 💪 Opened PR [#1393](https://github.com/asyncapi/modelina/pull/1393) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+10. 🗣 Commented on [#650](https://github.com/asyncapi/studio/issues/650) in [asyncapi/studio](https://github.com/asyncapi/studio)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
