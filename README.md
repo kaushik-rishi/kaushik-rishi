@@ -72,16 +72,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#590](https://github.com/asyncapi/cli/issues/590) in [asyncapi/cli](https://github.com/asyncapi/cli)
-2. 🗣 Commented on [#593](https://github.com/asyncapi/cli/issues/593) in [asyncapi/cli](https://github.com/asyncapi/cli)
-3. ❗ Opened issue [#546](https://github.com/asyncapi/ts-nats-template/issues/546) in [asyncapi/ts-nats-template](https://github.com/asyncapi/ts-nats-template)
-4. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-5. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+1. 🗣 Commented on [#939](https://github.com/asyncapi/spec/issues/939) in [asyncapi/spec](https://github.com/asyncapi/spec)
+2. 🗣 Commented on [#590](https://github.com/asyncapi/cli/issues/590) in [asyncapi/cli](https://github.com/asyncapi/cli)
+3. 🗣 Commented on [#593](https://github.com/asyncapi/cli/issues/593) in [asyncapi/cli](https://github.com/asyncapi/cli)
+4. ❗ Opened issue [#546](https://github.com/asyncapi/ts-nats-template/issues/546) in [asyncapi/ts-nats-template](https://github.com/asyncapi/ts-nats-template)
+5. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
 6. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
 7. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
-8. 💪 Opened PR [#462](https://github.com/asyncapi/glee/pull/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
-9. 🗣 Commented on [#258](https://github.com/asyncapi/glee/issues/258) in [asyncapi/glee](https://github.com/asyncapi/glee)
-10. 🗣 Commented on [#1367](https://github.com/asyncapi/modelina/issues/1367) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+8. 🗣 Commented on [#462](https://github.com/asyncapi/glee/issues/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+9. 💪 Opened PR [#462](https://github.com/asyncapi/glee/pull/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+10. 🗣 Commented on [#258](https://github.com/asyncapi/glee/issues/258) in [asyncapi/glee](https://github.com/asyncapi/glee)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
