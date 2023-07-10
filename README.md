@@ -35,6 +35,7 @@ name: Kaushik Rishi
 located_in: India
 education: Senior @ IIIT Sricity 🎓
 past experiences: 
+  - ["Associate Member of Technical Staff", "Salesforce ☁️"]
   - ["Software Developer Intern", "Motorq ⚙️"]
   - ["Software Engineer Intern", "Salesforce ☁️"]
   - ["Software Developer Intern", "Neverinstall 💾"]
