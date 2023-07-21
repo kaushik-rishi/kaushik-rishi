@@ -73,16 +73,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1622132515) in [asyncapi/glee](https://github.com/asyncapi/glee)
-2. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1617311190) in [asyncapi/spec](https://github.com/asyncapi/spec)
-3. 🗣 Commented on [#590](https://github.com/asyncapi/cli/pull/590#issuecomment-1613345620) in [asyncapi/cli](https://github.com/asyncapi/cli)
-4. 🗣 Commented on [#593](https://github.com/asyncapi/cli/pull/593#issuecomment-1601992556) in [asyncapi/cli](https://github.com/asyncapi/cli)
-5. ❗ Opened issue [#546](https://github.com/asyncapi/ts-nats-template/issues/546) in [asyncapi/ts-nats-template](https://github.com/asyncapi/ts-nats-template)
-6. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397#issuecomment-1593529257) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
-7. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1588562588) in [asyncapi/glee](https://github.com/asyncapi/glee)
-8. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1587670825) in [asyncapi/glee](https://github.com/asyncapi/glee)
-9. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1587526038) in [asyncapi/glee](https://github.com/asyncapi/glee)
-10. 💪 Opened PR [#462](https://github.com/asyncapi/glee/pull/462) in [asyncapi/glee](https://github.com/asyncapi/glee)
+1. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1645724578) in [asyncapi/spec](https://github.com/asyncapi/spec)
+2. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1622132515) in [asyncapi/glee](https://github.com/asyncapi/glee)
+3. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1617311190) in [asyncapi/spec](https://github.com/asyncapi/spec)
+4. 🗣 Commented on [#590](https://github.com/asyncapi/cli/pull/590#issuecomment-1613345620) in [asyncapi/cli](https://github.com/asyncapi/cli)
+5. 🗣 Commented on [#593](https://github.com/asyncapi/cli/pull/593#issuecomment-1601992556) in [asyncapi/cli](https://github.com/asyncapi/cli)
+6. ❗ Opened issue [#546](https://github.com/asyncapi/ts-nats-template/issues/546) in [asyncapi/ts-nats-template](https://github.com/asyncapi/ts-nats-template)
+7. 🗣 Commented on [#1397](https://github.com/asyncapi/modelina/issues/1397#issuecomment-1593529257) in [asyncapi/modelina](https://github.com/asyncapi/modelina)
+8. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1588562588) in [asyncapi/glee](https://github.com/asyncapi/glee)
+9. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1587670825) in [asyncapi/glee](https://github.com/asyncapi/glee)
+10. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1587526038) in [asyncapi/glee](https://github.com/asyncapi/glee)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
