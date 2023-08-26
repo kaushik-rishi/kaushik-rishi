@@ -73,16 +73,16 @@ currentlyExploring: {
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/asyncapi/nodejs-template/pull/220#issuecomment-1692659170) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
-2. 💪 Opened PR [#220](https://github.com/asyncapi/nodejs-template/pull/220) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
-3. ❗ Opened issue [#219](https://github.com/asyncapi/nodejs-template/issues/219) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
-4. 🗣 Commented on [#411](https://github.com/asyncapi/glee/issues/411#issuecomment-1669670056) in [asyncapi/glee](https://github.com/asyncapi/glee)
-5. 🗣 Commented on [#956](https://github.com/asyncapi/spec/pull/956#issuecomment-1651911695) in [asyncapi/spec](https://github.com/asyncapi/spec)
-6. 🗣 Commented on [#244](https://github.com/asyncapi/.github/pull/244#issuecomment-1651908403) in [asyncapi/.github](https://github.com/asyncapi/.github)
-7. 💪 Opened PR [#956](https://github.com/asyncapi/spec/pull/956) in [asyncapi/spec](https://github.com/asyncapi/spec)
-8. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1645724578) in [asyncapi/spec](https://github.com/asyncapi/spec)
-9. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1622132515) in [asyncapi/glee](https://github.com/asyncapi/glee)
-10. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1617311190) in [asyncapi/spec](https://github.com/asyncapi/spec)
+1. 🗣 Commented on [#220](https://github.com/asyncapi/nodejs-template/pull/220#issuecomment-1694489279) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
+2. 🗣 Commented on [#220](https://github.com/asyncapi/nodejs-template/pull/220#issuecomment-1692659170) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
+3. 💪 Opened PR [#220](https://github.com/asyncapi/nodejs-template/pull/220) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
+4. ❗ Opened issue [#219](https://github.com/asyncapi/nodejs-template/issues/219) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)
+5. 🗣 Commented on [#411](https://github.com/asyncapi/glee/issues/411#issuecomment-1669670056) in [asyncapi/glee](https://github.com/asyncapi/glee)
+6. 🗣 Commented on [#956](https://github.com/asyncapi/spec/pull/956#issuecomment-1651911695) in [asyncapi/spec](https://github.com/asyncapi/spec)
+7. 🗣 Commented on [#244](https://github.com/asyncapi/.github/pull/244#issuecomment-1651908403) in [asyncapi/.github](https://github.com/asyncapi/.github)
+8. 💪 Opened PR [#956](https://github.com/asyncapi/spec/pull/956) in [asyncapi/spec](https://github.com/asyncapi/spec)
+9. 🗣 Commented on [#939](https://github.com/asyncapi/spec/pull/939#issuecomment-1645724578) in [asyncapi/spec](https://github.com/asyncapi/spec)
+10. 🗣 Commented on [#462](https://github.com/asyncapi/glee/pull/462#issuecomment-1622132515) in [asyncapi/glee](https://github.com/asyncapi/glee)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 **Github Stats:**
